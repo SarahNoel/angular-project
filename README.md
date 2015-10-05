@@ -17,18 +17,18 @@ This app will have two separate functionalities, admin and users.  This app will
 
 ### Features
 1. Admin Features
-- Show all clues
-- Input for new clue
-- Clue Details: Location with Google Maps API, Pictures-possibly with Instagram, Hints, Answer
-- Edit/Delete clues
+* Show all clues
+* Input for new clue
+* Clue Details: Location with Google Maps API, Pictures*possibly with Instagram, Hints, Answer
+* Edit/Delete clues
 
 1. User Features
-- Access one clue at a time
-- See one hint at a time
-- Submit answer
+* Access one clue at a time
+* See one hint at a time
+* Submit answer
 
 1. Stretch Goals
-- Score system: lose points for more hints accessed
-- Timing: see how long users spend on each Clue
+* Score system: lose points for more hints accessed
+* Timing: see how long users spend on each Clue
 
 
