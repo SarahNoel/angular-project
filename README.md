@@ -1,9 +1,11 @@
-# Angular Project Proposal- Scavenger Hunt Game App
+# Angular Project Proposal
 
-## Description
+##Scavenger Hunt Game App
+
+### Description
 This app will have two separate functionalities, admin and users.  This app will allow a user to setup various locations with clues, maps, and pictures.  A user will be able to access the hints and be able to submit their clues in order to move on to the next clue.
 
-## Technologies
+###Technologies
 1. MEAN Stack
 1. NodeJS
 1. Angular front-end
@@ -13,11 +15,11 @@ This app will have two separate functionalities, admin and users.  This app will
 1. PassportJS for Authentication- Admin and User
 1. Bootstrap for design
 
-## Features
+### Features
 1. Admin Features
 - Show all clues
 - Input for new clue
--- Clue Details = Location with Google Maps API, Pictures-possibly with Instagram, Hints, Answer
+- Clue Details: Location with Google Maps API, Pictures-possibly with Instagram, Hints, Answer
 - Edit/Delete clues
 
 1. User Features
