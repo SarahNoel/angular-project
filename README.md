@@ -1,6 +1,6 @@
 # Angular Project Proposal
 
-##Scavenger Hunt Game App
+##Scavenger/Treasure Hunt Game App
 
 ### Description
 
