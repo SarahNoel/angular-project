@@ -12,7 +12,7 @@ This app will have two separate functionalities, admin and users.  This app will
   - NodeJS
   - Angular front-end
   - ExpressJS back-end – Create API for clues
-  - MongoDB (along with Mongoose or Monk)- Stores clues and users
+  - MongoDB (with Mongoose)- Stores clues and users
 - Gulp
 - PassportJS for Authentication- Admin and User
 - Bootstrap for design
